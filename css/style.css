@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+
+.carousel-item img{
+    width: 100;
+    height: 95vh;
+}
